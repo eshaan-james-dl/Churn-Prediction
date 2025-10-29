@@ -29,12 +29,14 @@ It uses preprocessing pipelines with scaling and one-hot encoding, followed by a
 
 ## Repository Structure
 ```
-columndescription.csv
-ChurnPrediction.ipynb        
-test.csv
-train.csv                       
+
+ChurnPrediction.ipynb                           
 README.md                   
 ```
+
+## Dataset
+[Drive](https://drive.google.com/drive/folders/1hRGMiWxJxrBNfiiGbxIVKDOmx4hMbt_b?usp=sharing)
+
 ## Author
 **Eshaan James**  
 Machine Learning & Data Science Enthusiast  
