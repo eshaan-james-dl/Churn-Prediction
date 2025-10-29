@@ -27,13 +27,13 @@ It uses preprocessing pipelines with scaling and one-hot encoding, followed by a
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
-ChurnPrediction.ipynb        # Jupyter notebook with complete pipeline
-data/                        # (optional) Folder for train/test CSVs
-README.md                    # Project documentation
+ChurnPrediction.ipynb        
+data/                       
+README.md                   
 ```
 ## Author
 **Eshaan James**  
 Machine Learning & Data Science Enthusiast  
-📬 Connect on [LinkedIn](https://www.linkedin.com/in/eshaan-r-james/)
+Connect on [LinkedIn](https://www.linkedin.com/in/eshaan-r-james/)
