@@ -29,8 +29,10 @@ It uses preprocessing pipelines with scaling and one-hot encoding, followed by a
 
 ## Repository Structure
 ```
+columndescription.csv
 ChurnPrediction.ipynb        
-data/                       
+test.csv
+train.csv                       
 README.md                   
 ```
 ## Author
